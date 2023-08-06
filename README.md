@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am working at Korea Asset Pricing, as Research Team Manager!
+
 <!--
 **shaightro/shaightro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
